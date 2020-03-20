@@ -215,14 +215,14 @@ input[type="text"] {
   height: 100vh;
   background: url("../assets/parallax/air-ballon-2-min.png") no-repeat 50% 50%;
   background-size: cover;
-  top: 3%;
+  top: -8%;
 }
 
 .text {
   position: absolute;
   width: 100%;
   height: 100vh;
-  top: 0%;
+  top: -8%;
   background: url("../assets/parallax/air-logo-min.png") no-repeat 50% 50%;
   background-size: cover;
   //mix-blend-mode: overlay;
@@ -232,6 +232,7 @@ input[type="text"] {
   position: absolute;
   width: 100%;
   height: 100vh;
+  top: -5%;
   background: url("../assets/parallax/clouds-min.png") no-repeat 50% 50%;
   background-size: cover;
 }
